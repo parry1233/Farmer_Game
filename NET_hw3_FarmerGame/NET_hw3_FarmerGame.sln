@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_hw3_FarmerGame", "NET_hw3_FarmerGame\NET_hw3_FarmerGame.csproj", "{633BA918-F430-4EBB-AE0A-BE4363BA4C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633BA918-F430-4EBB-AE0A-BE4363BA4C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633BA918-F430-4EBB-AE0A-BE4363BA4C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633BA918-F430-4EBB-AE0A-BE4363BA4C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633BA918-F430-4EBB-AE0A-BE4363BA4C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E8D9C2-97AB-4FFD-852A-637D9E33EBFE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\bin\Debug\NET_hw3_FarmerGame.exe.config
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\bin\Debug\NET_hw3_FarmerGame.exe
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\bin\Debug\NET_hw3_FarmerGame.pdb
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\obj\Debug\NET_hw3_FarmerGame.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\obj\Debug\NET_hw3_FarmerGame.Form1.resources
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\obj\Debug\NET_hw3_FarmerGame.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\obj\Debug\NET_hw3_FarmerGame.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\obj\Debug\NET_hw3_FarmerGame.exe
+C:\Users\USER\source\repos\NET_hw3_FarmerGame\NET_hw3_FarmerGame\obj\Debug\NET_hw3_FarmerGame.pdb
